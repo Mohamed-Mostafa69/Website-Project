@@ -1,4 +1,5 @@
-##Website-Project
+Website-Project
+================
 
 ![img-1](Lawyers-Office.jpg)
 
@@ -7,7 +8,8 @@ Link
 
 * https://lawyers.moody258852.repl.co/web/index.php
 
-##Installation
+Installation
+-------------
 
 ```sh
 > service apache2 start
